@@ -123,7 +123,7 @@ sencilla de convertir estas resistencias de un formato al otro y viceversa. No e
 
 Diagramas
 
-#### **Anexos**
+### **Anexos**
 
 [Link Video](https://www.youtube.com/watch?v=gM3nKqke5yE "Link Video")
 
