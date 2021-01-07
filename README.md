@@ -21,12 +21,6 @@ Objetivos específicos
 - Realizar conversiones de fuente y de aY y Ya.
 Marco teorico
 
-![fuentes de voltaje](https://user-images.githubusercontent.com/76136485/103899061-d528d580-50c3-11eb-9785-5179a7856c81.jpeg)
-![metodo de superposicion](https://user-images.githubusercontent.com/76136485/103899064-d5c16c00-50c3-11eb-85c9-b0dce5453414.jpeg)
-![torema de norton](https://user-images.githubusercontent.com/76136485/103899067-d65a0280-50c3-11eb-9dc9-b3e7fa42ff16.jpeg)
-![trorema de thevenin](https://user-images.githubusercontent.com/76136485/103899068-d65a0280-50c3-11eb-9d49-aa77bfca3a05.jpeg)
-![y dentro de delta](https://user-images.githubusercontent.com/76136485/103899070-d6f29900-50c3-11eb-98a8-9ff815036622.jpeg)
-![conversion de fuente de corriente](https://user-images.githubusercontent.com/76136485/103899072-d6f29900-50c3-11eb-92dd-1ef3f1db89c1.jpeg)
 
 La fuente de voltaje de cd
 
@@ -38,7 +32,7 @@ salida especificada. Todas las fuentes de voltaje tienen algo de resistencia int
 inherente a consecuencia de su composición física o química, la cual puede ser 
 representada mediante un resistor dispuesto en serie con una fuente ideal
 
-
+![fuentes de voltaje](https://user-images.githubusercontent.com/76136485/103899061-d528d580-50c3-11eb-9785-5179a7856c81.jpeg)
 
 La fuente de corriente
 
@@ -52,6 +46,8 @@ básicamente como fuentes de alimentaciones lineales y conmutadas. Las lineales
 tienen un diseño relativamente simple, que puede llegar a ser más complejo cuanto 
 mayor es la corriente que deben suministrar, sin embargo su regulación de tensión
  es poco eficiente. 
+ 
+
 
 Conversiones de fuente
 
@@ -64,6 +60,9 @@ viceversa. Para analizar los circuitos, podemos aplicar un voltaje simple y
 técnicas de divisor de corriente utilizando estas transformaciones. Este método
 de transformación de fuente también se puede usar para convertir un circuito del 
 equivalente de Thevinin en el equivalente de Norton. 
+
+![conversion de fuente de corriente](https://user-images.githubusercontent.com/76136485/103899072-d6f29900-50c3-11eb-92dd-1ef3f1db89c1.jpeg)
+
 
 El teorema de superposición
 
@@ -80,6 +79,9 @@ que equivale a reemplazar la fuente de corriente con un circuito abierto.
 Cuando suma las contribuciones de las fuentes, debe tener cuidado de 
 tener en cuenta sus signos. 
 
+ ![metodo de superposicion](https://user-images.githubusercontent.com/76136485/103899064-d5c16c00-50c3-11eb-85c9-b0dce5453414.jpeg)
+
+
 Teorema de Thevenin
 
 Teorema de Thévenin establece que si una parte de un circuito eléctrico lineal 
@@ -88,6 +90,10 @@ sustituirse por un circuito equivalente que esté constituido únicamente por un
 generador de tensión en serie con una impedancia de forma que al conectar un 
 elemento entre las dos terminales A y B, la tensión que cae en él y la intensidad 
 que lo atraviesa son las mismas tanto en el circuito real como en el equivalente.
+
+![trorema de thevenin](https://user-images.githubusercontent.com/76136485/103899068-d65a0280-50c3-11eb-9d49-aa77bfca3a05.jpeg)
+
+
 
 Teorema de Norton
 
@@ -102,6 +108,10 @@ planteando lo siguiente: Un circuito que tenga dos terminales, se comporta
 respecto de una resistencia de carga colocada entre ellos como un simple 
 generador de intensidad Ix en paralelo con una resistencia Rx.
 
+![torema de norton](https://user-images.githubusercontent.com/76136485/103899067-d65a0280-50c3-11eb-9dc9-b3e7fa42ff16.jpeg)
+
+
+
 Teorema de transferencia de potencia Máxima
 
 El teorema de transferencia de potencia máxima no es tanto un medio
@@ -111,6 +121,8 @@ de carga cuando esa resistencia de carga sea igual a la resistencia de
 Thevenin / Norton de la red que suministra la energía. Si la resistencia
 de carga es menor o mayor que la resistencia Thevenin / Norton de la 
 red de origen, su potencia disipada será menor que la máxima.
+
+![y dentro de delta](https://user-images.githubusercontent.com/76136485/103899070-d6f29900-50c3-11eb-98a8-9ff815036622.jpeg)
 
 Conversiones delta a Y 
 
