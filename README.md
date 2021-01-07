@@ -1,4 +1,4 @@
-Proyecto de investigación
+PROYECTO DE INVESTIGACIÓN
 
 
 
@@ -18,6 +18,7 @@ Objetivos específicos
 - Aplicar el teorema de transferencia de potencia máxima.
 - Realizar conversiones de fuente y de aY y Ya.
 Marco teorico
+
 ! [Diagrama1] (https://user-images.githubusercontent.com/76136485/103896786-8168bd00-50c0-11eb-8607-657e3517ad22.jpeg)
 
 La fuente de voltaje de cd
@@ -29,7 +30,7 @@ regulada se aproximan a la situación ideal cuando funcionan dentro de la corrie
 salida especificada. Todas las fuentes de voltaje tienen algo de resistencia interna
 inherente a consecuencia de su composición física o química, la cual puede ser 
 representada mediante un resistor dispuesto en serie con una fuente ideal
-! [.] (diagramas / fuente de voltaje)
+
 
 
 La fuente de corriente
