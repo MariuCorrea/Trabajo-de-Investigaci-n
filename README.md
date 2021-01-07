@@ -19,7 +19,12 @@ Objetivos específicos
 - Realizar conversiones de fuente y de aY y Ya.
 Marco teorico
 
-! [Diagrama1] (https://user-images.githubusercontent.com/76136485/103896786-8168bd00-50c0-11eb-8607-657e3517ad22.jpeg)
+![fuentes de voltaje](https://user-images.githubusercontent.com/76136485/103899061-d528d580-50c3-11eb-9785-5179a7856c81.jpeg)
+![metodo de superposicion](https://user-images.githubusercontent.com/76136485/103899064-d5c16c00-50c3-11eb-85c9-b0dce5453414.jpeg)
+![torema de norton](https://user-images.githubusercontent.com/76136485/103899067-d65a0280-50c3-11eb-9dc9-b3e7fa42ff16.jpeg)
+![trorema de thevenin](https://user-images.githubusercontent.com/76136485/103899068-d65a0280-50c3-11eb-9d49-aa77bfca3a05.jpeg)
+![y dentro de delta](https://user-images.githubusercontent.com/76136485/103899070-d6f29900-50c3-11eb-98a8-9ff815036622.jpeg)
+![conversion de fuente de corriente](https://user-images.githubusercontent.com/76136485/103899072-d6f29900-50c3-11eb-92dd-1ef3f1db89c1.jpeg)
 
 La fuente de voltaje de cd
 
