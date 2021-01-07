@@ -133,12 +133,6 @@ están ordenadas formando como un triángulo y otros como una estrella. Hay una 
 sencilla de convertir estas resistencias de un formato al otro y viceversa. No es solo asunto de
  cambiar la posición de las resistencias si no de obtener los nuevos valores que estas tendrán.
 
-Diagramas
-
-### **Anexos**
-
-[Link Video](https://www.youtube.com/watch?v=gM3nKqke5yE "Link Video")
-
 
 ### Conclusiones
 
@@ -152,6 +146,10 @@ y resolviendola a travez de la vision de la resistencia a calcular.
 
 - El teorema de Norton y el teorema de Thevenin son practicamente iguales la unica diferencia es que en el teorema de Norton se halla la corriente en vez del voltaje
 pero aún así sus fórmulas están corelacionadas. 
+
+### **Anexos**
+
+[Link Video](https://www.youtube.com/watch?v=gM3nKqke5yE "Link Video")
 
 ### Bibliografía
 
