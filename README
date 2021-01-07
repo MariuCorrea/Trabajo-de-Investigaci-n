@@ -29,6 +29,8 @@ regulada se aproximan a la situación ideal cuando funcionan dentro de la corrie
 salida especificada. Todas las fuentes de voltaje tienen algo de resistencia interna 
 inherente a consecuencia de su composición física o química, la cual puede ser 
 representada mediante un resistor dispuesto en serie con una fuente ideal
+![.] (diagramas/fuente de voltaje)
+
 
 La fuente de corriente
 
