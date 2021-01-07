@@ -151,4 +151,9 @@ dandonos unas herramientas muy utiles para resolver circuitos complejos.
 y resolviendola a travez de la vision de la resistencia a calcular.
 
 - El teorema de Norton y el teorema de Thevenin son practicamente iguales la unica diferencia es que en el teorema de Norton se halla la corriente en vez del voltaje
-pero aún así sus fórmulas están corelacionadas.
+pero aún así sus fórmulas están corelacionadas. 
+
+### Bibliografía
+
+Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
