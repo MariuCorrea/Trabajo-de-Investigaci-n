@@ -117,9 +117,12 @@ Diagramas
 
 - Los teoremas de este capitulo 8 se centran en simplificar los circuitos y a su vez los procesos para poder resolverlos con mayor fácilidad
 dandonos unas herramientas muy utiles para resolver circuitos complejos.
+
 -  El teorema de superposicion se centra en ayudarnos a resolver ejercicios con una o más fuentes de voltaje de una manera más fácil y eficiente.
+
 - Con el teorema de Thevenin podemos resolver problemas en el que queramos hallar la carga de una resistencia específica eliminandola del circuito
 y resolviendola a travez de la vision de la resistencia a calcular.
+
 - El teorema de Norton y el teorema de Thevenin son practicamente iguales  la unica diferencia es que en el teorema de Norton se halla la corriente en vez del voltaje
 pero aún asi sus formulas están corelacionadas.
 
